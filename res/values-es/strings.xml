@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mt_fuji">Monte Fuji</string>
+    <string name="cn_tower">C.N. torre</string>
+    <string name="stanley_park">Stanley Park</string>
+    <string name="niagara_falls">Cataratas del Niágara</string>
+
+</resources>
